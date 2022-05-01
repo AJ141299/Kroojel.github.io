@@ -179,8 +179,8 @@ p {
 
 img {
 	margin: auto;
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
 	max-width: 90%;
 	width: 70%;
 }
@@ -245,4 +245,11 @@ p a {
 .icon-arrow {
 	height: 20px;
 	padding-left: 20px;
+}
+
+.weekly-snapshots {
+	margin-bottom: 10px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: white;
 }
