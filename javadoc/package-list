@@ -1,0 +1,11 @@
+com.mygdx
+com.mygdx.game
+com.mygdx.game.AI
+com.mygdx.game.Components
+com.mygdx.game.Entitys
+com.mygdx.game.Entitys.UI
+com.mygdx.game.Managers
+com.mygdx.game.Physics
+com.mygdx.game.Quests
+com.mygdx.game.desktop
+com.mygdx.utils
