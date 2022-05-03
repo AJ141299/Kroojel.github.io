@@ -124,10 +124,10 @@ body {
 
 #background {
 	min-height: 100%;
-	background-color: #49494963;
-	background-color: #41414191;
-	background-color: #cccccc70;
-	background-color: #27313487;
+	background-color: #ffff;
+	background-color: #ffff;
+	background-color: #ffff;
+	background-color: #ffff;
 }
 
 #main-area {
@@ -259,6 +259,7 @@ h3 {
 }
 
 .test-p {
-	font-weight: 500;
-	font-size: 20px;
+	font-weight: 600;
+	font-size: 35px;
+	font-family: sans-serif;
 }
